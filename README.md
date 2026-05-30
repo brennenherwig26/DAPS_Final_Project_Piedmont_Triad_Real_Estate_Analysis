@@ -16,3 +16,12 @@ statistical models then test whether those hand-picked weights hold up
 under regression: a linear regression predicting price (R² = 0.78) and 
 a logistic regression classifying deal status (ROC-AUC = 0.69). 
 Supplementary SQL analysis provides strategic market-level context.
+
+## A note on Jupyter notebook rendering
+Github has been giving errors on the rendering of the files. Here is a link to the rendered notebooks on nbviewer.org.
+
+DAPS Final EDA
+https://nbviewer.org/github/brennenherwig26/DAPS_Final_Project_Piedmont_Triad_Real_Estate_Analysis/blob/main/DAPS%20Final%20EDA.ipynb
+
+sql_queries
+https://nbviewer.org/github/brennenherwig26/DAPS_Final_Project_Piedmont_Triad_Real_Estate_Analysis/blob/main/sql_queries.ipynb
