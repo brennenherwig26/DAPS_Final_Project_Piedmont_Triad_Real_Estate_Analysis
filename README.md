@@ -1,4 +1,4 @@
-# DAPS_Final_Project_Piedmont_Triad_Real_Estate_Analysis
+# DAPS Final Project: Piedmont Triad Real Estate Analysis
 Booth Data Analysis final project: Identifying undervalued real estate investment opportunities in the Piedmont Triad, NC
 
 ## Project Summary
